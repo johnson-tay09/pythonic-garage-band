@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/johnsontay/Documents/Codefellows/code401/Labs/pythonic-garage-band/.venv/bin/python3.9",
+    "python.formatting.provider": "black"
+}
